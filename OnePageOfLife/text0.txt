@@ -1,0 +1,3 @@
+{'UID': 'Xx1', 'PSD': '666', 'STR': ['hello world!']}
+{'UID': 'INDEXxiaoxia', 'PSD': '666', 'STR': ['this just a page of life in my story']}
+{'UID': 'Memorij', 'PSD': '666', 'STR': ['Oh my fucking god!']}
